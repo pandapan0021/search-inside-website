@@ -7,7 +7,7 @@ setup(
         name='searcher',
         version='0.1',
         install_requires=[
-                          'jieba==0.38'
+                          'jieba==0.38',
                           'redis==2.10.5'
                           ]
 )
